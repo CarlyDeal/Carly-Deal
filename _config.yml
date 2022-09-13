@@ -14,7 +14,7 @@ author: Carly Deal
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Come along as I learn R"
+  About Me: ""
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
