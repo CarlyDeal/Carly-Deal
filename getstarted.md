@@ -25,6 +25,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 </div>
 
 <div class="gs-section-04" markdown="1">
+
 ### 4. Congratulations! You have a website!
 
 </div>
@@ -37,21 +38,21 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 .gs-section-01 p {
      font: DejaVu Sans Mono
-     font-size: 30px;
+     font-size: 30px; }
  
  .gs-section-02 h3 { 
      color: red }
   
 .gs-section-02 p {
      font: Monaco
-     font-size: 30px;
+     font-size: 30px; }
   
    .gs-section-03 h3 { 
      color: red }
   
   .gs-section-03 p {
      font: serif
-     font-size: 30px;
+     font-size: 30px;}
    
   .gs-section-04 h3 { 
      color: red }
