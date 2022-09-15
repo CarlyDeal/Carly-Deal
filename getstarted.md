@@ -24,3 +24,37 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, c
 Note that in the video above only one setting in the `_config.yml` file is edited. **You should actually go through the rest of the settings as well. Don't be lazy, go through all the settings!**
 
 ### 4. Congratulations! You have a website!
+
+<style>
+
+.gs-section-01 h3 { 
+     color: red }
+
+.gs-section-01 p {
+     font: DejaVu Sans Mono
+     font-size: 30px;
+ 
+ .gs-section-02 h3 { 
+     color: red }
+  
+.gs-section-02 p {
+     font: Monaco
+     font-size: 30px;
+  
+   .gs-section-03 h3 { 
+     color: red }
+  
+  .gs-section-03 p {
+     font: serif
+     font-size: 30px;
+   
+  .gs-section-04 h3 { 
+     color: red }
+ 
+  .gs-section-04 p {
+     font: Bitstream Vera Sans Mono
+     font-size: 30px;
+
+}
+
+</style>
