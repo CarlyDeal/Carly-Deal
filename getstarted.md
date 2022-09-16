@@ -30,7 +30,6 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 </div>
 
-
 <style>
 
 .gs-section-01 h1 {
@@ -38,23 +37,19 @@ Note that in the video above only one setting in the `_config.yml` file is edite
   font-size: 50px;
   font-family: Monaco;
   }
-</style>
-<style>
+
  .gs-section-02 h2 {
   color: gray25;
   font-size: 30px;
   font-family:Liberation Mono;
   }
-  </style>
-  <style>
+
   .gs-section-03 h3 {
   color: CadetBlue;
   font-size: 50px;
   font-family: Bitstream Vera Sans Mono;
   }
   
-  </style>
-  <style>
   .gs-section-04 h4 {
   color: gray25;
   font-size: 30px;
