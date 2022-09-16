@@ -34,8 +34,8 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 <style>
 
 h1 {
-  color: CadetBlue
-  font-size: 30px
+  color: CadetBlue;
+  font-size: 30px;
   }
 
 </style>
