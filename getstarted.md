@@ -40,7 +40,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
   }
 
  .gs-section-02 h2 {
-  color: CadetBlue;
+  color: gray25;
   font-size: 30px;
   font-family:Liberation Mono;
   }
@@ -52,7 +52,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
   }
   
   .gs-section-04 h4 {
-  color: CadetBlue;
+  color: gray25;
   font-size: 30px;
   font-family: DejaVu Sans Mon;
   }
