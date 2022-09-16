@@ -44,6 +44,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
   font-size: 30px;
   font-family:Liberation Mono;
   }
+  
   .gs-section-03 h3 {
   color: CadetBlue;
   font-size: 30px;
