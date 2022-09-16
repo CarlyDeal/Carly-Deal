@@ -24,7 +24,7 @@ gosling:
 
 
 
-![]({{CarlyDeal.github.io/assets/img/ryan-v-ryan.jpeg}/assets/img/ryan-v-ryan.jpg)  
+![]({{CarlyDeal.github.io}/assets/img/ryan-v-ryan.jpg)  
 
 
 ## Lorem Ipsum
