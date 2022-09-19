@@ -35,12 +35,9 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 .gs-section-01 h1 {
   color: CadetBlue }
   
-  .gs-section-01 h1 {
+  .gs-section-01 p {
   font-size: 50px }
-  
-  .gs-section-01 h1 {
-  font-family: Monaco
-  }
+ 
 
  .gs-section-02 h2 {
   color: gray25;
