@@ -23,8 +23,8 @@ gosling:
 
 
 
+![Ryan and Ryan](/assets/img/ryan-v-ryan.jpeg)
 
-![]({{github.io/carlydeal}}/assets/img/ryan-v-ryan.jpg)  
 
 
 
