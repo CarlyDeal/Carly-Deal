@@ -44,6 +44,8 @@ Note that in the video above only one setting in the `_config.yml` file is edite
   
  .gs-section-02 h1 {
   color: gray25;
+  
+  .gs-section-02 p {
   font-size: 30px;
   font-family:Liberation Mono;
   }
@@ -55,7 +57,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
   .gs-section-03 h1 {
   color: #5F9EA0}
   
-  .gs-section-03 h1 {
+  .gs-section-03 p {
   font-size: 50px;
   font-family: Bitstream Vera Sans Mono;
   }
@@ -65,7 +67,9 @@ Note that in the video above only one setting in the `_config.yml` file is edite
     <style>
   
   .gs-section-04 h1 {
-  color: gray25;
+  color: gray25}
+  
+ .gs-section-04 p {
   font-size: 30px;
   font-family: DejaVu Sans Mon;
   }
