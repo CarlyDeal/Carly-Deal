@@ -56,7 +56,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
   font-size: 15px}
   
   
-  
+ 
   .gs-section-04 h1 {
   color: #80808}
   
