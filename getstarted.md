@@ -40,17 +40,25 @@ Note that in the video above only one setting in the `_config.yml` file is edite
   
  </style>
 
+<style>
+  
  .gs-section-02 h1 {
   color: gray25;
   font-size: 30px;
   font-family:Liberation Mono;
   }
 
+   </style>
+   <style>
+  
   .gs-section-03 h1 {
   color: CadetBlue;
   font-size: 50px;
   font-family: Bitstream Vera Sans Mono;
   }
+  
+     </style>
+    <style>
   
   .gs-section-04 h1 {
   color: gray25;
