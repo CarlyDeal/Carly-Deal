@@ -37,7 +37,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
   color: CadetBlue; 
   
   .gs-section-01 p {
-  font-size: 40px; }
+  font-size: 15px; }
   
  </style>
 
@@ -58,7 +58,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
   color: #5F9EA0;
   
   .gs-section-03 p {
-  font-size: 40px;}
+  font-size: 15px;}
   
      </style>
     
