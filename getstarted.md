@@ -49,6 +49,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
   }
 
    </style>
+   
    <style>
   
   .gs-section-03 h1 {
@@ -58,6 +59,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
   }
   
      </style>
+    
     <style>
   
   .gs-section-04 h1 {
