@@ -33,30 +33,24 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 <style>
 
-  .gs-section-01 h1 {
+.gs-section-01 h1 {
   color: CadetBlue} 
   
-  .gs-section-01 p {
+ .gs-section-01 p {
   font-size: 15px; }
-  
   
  .gs-section-02 h1 {
   color: #808080}
   
   .gs-section-02 p {
-  font-size: 30px
-  }
+  font-size: 30px}
 
-  
-  
   .gs-section-03 h1 {
-  color: #5F9EA0}
+   color: #5F9EA0}
   
   .gs-section-03 p {
-  font-size: 15px}
+   font-size: 15px}
   
-  
- 
   .gs-section-04 h1 {
   color: #80808}
   
