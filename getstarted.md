@@ -39,19 +39,19 @@ Note that in the video above only one setting in the `_config.yml` file is edite
   font-size: 50px }
  
 
- .gs-section-02 h2 {
+ .gs-section-02 h1 {
   color: gray25;
   font-size: 30px;
   font-family:Liberation Mono;
   }
 
-  .gs-section-03 h3 {
+  .gs-section-03 h1 {
   color: CadetBlue;
   font-size: 50px;
   font-family: Bitstream Vera Sans Mono;
   }
   
-  .gs-section-04 h4 {
+  .gs-section-04 h1 {
   color: gray25;
   font-size: 30px;
   font-family: DejaVu Sans Mon;
