@@ -47,8 +47,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
   color: gray25;
   
   .gs-section-02 p {
-  font-size: 30px;
-  font-family:Liberation Mono;
+  font-size: 30px
   }
 
    </style>
@@ -60,7 +59,6 @@ Note that in the video above only one setting in the `_config.yml` file is edite
   
   .gs-section-03 p {
   font-size: 40px;
-  font-family: Bitstream Vera Sans Mono;
   }
   
      </style>
@@ -72,7 +70,6 @@ Note that in the video above only one setting in the `_config.yml` file is edite
   
  .gs-section-04 p {
   font-size: 30px;
-  font-family: DejaVu Sans Mon;
   }
   
 </style>
