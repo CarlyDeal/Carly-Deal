@@ -34,7 +34,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 <style>
 
   .gs-section-01 h1 {
-  color: CadetBlue; }
+  color: CadetBlue; 
   
   .gs-section-01 p {
   font-size: 40px; }
@@ -44,7 +44,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 <style>
   
  .gs-section-02 h1 {
-  color: gray25;
+  color: #808080;
   
   .gs-section-02 p {
   font-size: 30px
@@ -55,18 +55,17 @@ Note that in the video above only one setting in the `_config.yml` file is edite
    <style>
   
   .gs-section-03 h1 {
-  color: #5F9EA0}
+  color: #5F9EA0;
   
   .gs-section-03 p {
-  font-size: 40px;
-  }
+  font-size: 40px;}
   
      </style>
     
     <style>
   
   .gs-section-04 h1 {
-  color: gray25}
+  color: #808080;
   
  .gs-section-04 p {
   font-size: 30px;
