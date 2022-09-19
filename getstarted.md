@@ -53,7 +53,9 @@ Note that in the video above only one setting in the `_config.yml` file is edite
    <style>
   
   .gs-section-03 h1 {
-  color: CadetBlue;
+  color: #5F9EA0}
+  
+  .gs-section-03 h1 {
   font-size: 50px;
   font-family: Bitstream Vera Sans Mono;
   }
