@@ -5,7 +5,7 @@ reynolds:
   strengths:
   - good father
   - funny
-  - dated alanis morissette
+  - Married to Blake Lively
   weaknesses: 
   - singing
   - green lantern movie
@@ -14,7 +14,7 @@ gosling:
   strengths: 
   - builds houses
   - is a real boy
-  - never dated alanis morissette
+  - That movie with Emma Stone
   weaknesses: 
   - micky mouse club
   - cries a lot
